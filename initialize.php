@@ -1,10 +1,5 @@
 <?php
 
-//$folder = basename(dirname(__DIR__));
-//if(!defined('base_url')) define('base_url','http://localhost/' . $folder . '/');
-
-// $dev_data = array('id'=>'-1','firstname'=>'Developer','lastname'=>'''password'=>'5da283a2d990e8d8512cf967df5bc0d0','last_login'=>'','date_updated'=>'','date_added'=>'');
-
    if(!defined('base_url')) define('base_url','http://localhost/Ritik-STFS/');
 
 if(!defined('base_app')) define('base_app', str_replace('\\','/',__DIR__).'/' );
