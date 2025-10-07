@@ -65,13 +65,27 @@
 <footer id="footer" class="footer">
     <div class="copyright">
       &copy; <span id="year"></span> Copyright <strong><span>Ritik Kumar</span></strong>. All Rights Reserved
+
+      
+  <div class="footer-social-links">
+        <a href="https://github.com/Ritikk2110" class="github"><i class="fa-brands fa-github"></i></a>
+
+        <a href="https://www.linkedin.com/in/ritik-350425271kumar-/" class="linkedin"><i class="fa-brands fa-linkedin-in"></i></a>
+        
+        <a href="https://www.instagram.com/_ritik.2110" class="instagram"><i class="fa-brands fa-instagram"></i></a>
+        
+        <a href="https://x.com/Ritikk2110" class="twitter"><i class="fa-brands fa-x-twitter"></i></a>
+        
+        <a href="https://www.facebook.com/kumarritik.kumar.10" class="facebook"><i class="fa-brands fa-facebook-f"></i></a>
+        
+    </div>
      
     </div>
     <div class="credits">
       Template Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
     </div>
   </footer><!-- End Footer -->
-
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
   
    
 <!-- Vendor JS Files -->
